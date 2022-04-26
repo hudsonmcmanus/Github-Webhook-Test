@@ -9,5 +9,9 @@
 - Run server with: node index.js
 - Then in cmd or terminal run: ngrok http 3000
 - Make sure the ports are the same as whats in index
+- Add webhooks to whatever repo you want to just point them to your ngrok address and add one of the 4 post hooks
+- Then specify what to send.
+- EX Logo: ![Alt](/push_hook.png "Push event hook targeted to the ngrok /push endpoint")
+
 
 
