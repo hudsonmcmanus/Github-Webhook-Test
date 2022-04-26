@@ -11,7 +11,7 @@
 - Make sure the ports are the same as whats in index
 - Add webhooks to whatever repo you want to just point them to your ngrok address and add one of the 4 post hooks
 - Then specify what to send.
-- EX Logo: ![Alt](/9939681eb2c1d5871010548b3a0fa139.png "Push event hook targeted to the ngrok /push endpoint")
+- EX ![Alt](/9939681eb2c1d5871010548b3a0fa139.png "Push event hook targeted to the ngrok /push endpoint")
 
 
 
